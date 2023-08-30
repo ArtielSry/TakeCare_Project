@@ -2,7 +2,7 @@
 
 DEMO: https://artielsry.github.io/TakeCare_Project/
 
-I mainly made this project to practice javascript forms.
+I mainly made this project to practice CSS and javascript forms.
 
 HTML, CSS, JavaScript.
 
